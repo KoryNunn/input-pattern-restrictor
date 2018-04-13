@@ -1,7 +1,7 @@
 {
   "name": "input-pattern-restrictor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Restrict event propagation into input-like elements by validating the inputted value via regex.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +20,16 @@
     "watchify": "^3.11.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/input-pattern-restrictor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/input-pattern-restrictor/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/input-pattern-restrictor#readme"
 }
